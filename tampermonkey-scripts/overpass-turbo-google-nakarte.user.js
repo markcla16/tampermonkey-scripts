@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Overpass-turbo-google-nakarte
 // @namespace    https://overpass-turbo.eu
-// @version      2024.12.14.00.13
+// @version      2024.12.14.10.52
 // @description  Add a Google & Nakarte Maps link to the nodes popups.
-// @author       You
+// @author       r051nt
 // @match        https://overpass-turbo.eu/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/markcla16/tampermonkey-scripts/main/tampermonkey-scripts/overpass-turbo-google-nakarte.user.js
+// @downloadURL  https://raw.githubusercontent.com/markcla16/tampermonkey-scripts/main/tampermonkey-scripts/overpass-turbo-google-nakarte.user.js
 // ==/UserScript==
 
 (function() {
