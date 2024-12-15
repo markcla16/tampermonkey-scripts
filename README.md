@@ -1,6 +1,6 @@
 ![Monkey's 4 OSINT](images/monkey-logo.png)
 
-# tampermonkey scripts scripts for OSINT
+# tampermonkey scripts for OSINT
 This repository contains functional scripts to assist you in your OSINT investigations. Some are hosted directly on this repository, while others come from external sources.
 
 
