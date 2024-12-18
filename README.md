@@ -1,7 +1,7 @@
 ![Monkey's 4 OSINT](images/monkey-logo.png)
 
 # tampermonkey scripts for OSINT
-This repository contains working (tamper-monkey)[https://www.tampermonkey.net/] scripts to assist you in your OSINT investigations. Some are hosted directly on this repository, while others come from external sources.
+This repository contains working [tamper-monkey](https://www.tampermonkey.net/) scripts to assist you in your OSINT investigations. Some are hosted directly on this repository, while others come from external sources.
 
 ## How to use these scripts
 These script runs in the tamper-monkey browser addon. So to use them you need to install tamper-monkey in your browser. Then you can install the scripts from this repository just by clicking the install monkey script link.\
