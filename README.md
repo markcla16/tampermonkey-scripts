@@ -1,5 +1,10 @@
 ![Monkey's 4 OSINT](images/monkey-logo.png)
 
+
+## Also check the bookmarklets page
+[bookmarklets](bookmarklet.md)
+
+
 # tampermonkey scripts for OSINT
 This repository contains working [tamper-monkey](https://www.tampermonkey.net/) scripts to assist you in your OSINT investigations. Some are hosted directly on this repository, while others come from external sources.
 
